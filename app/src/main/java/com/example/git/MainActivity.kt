@@ -10,7 +10,4 @@ class MainActivity : AppCompatActivity() {
     }
 
     //change something
-
-
-    //checkout1
 }
